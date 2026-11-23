@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Spolehlivé uspávání karet",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Spolehlivý MV3 nástroj, který uvolňuje RAM v Chrome bez přerušení rozdělané práce, přehrávání médií či připnutých karet.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

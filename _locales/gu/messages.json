@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — વિશ્વસનીય ટેબ સસ્પેન્ડર",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "સક્રિય કાર્ય, મીડિયા અથવા પિન કરેલ ટેબ્સને ખલેલ પહોંચાડ્યા વિના Chrome RAM મુક્ત કરતું વિશ્વસનીય MV3 ટેબ સસ્પેન્ડર.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

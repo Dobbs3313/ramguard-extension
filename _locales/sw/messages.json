@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Kisitishaji cha Vichupo Imara",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Zana ya MV3 inayokomboa Chrome RAM kwa kutumia uhifadhi asili bila kusitisha kazi hai, sauti au vichupo vilivyobandikwa.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

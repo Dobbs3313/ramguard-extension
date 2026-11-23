@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — 堅実なタブ休止でメモリ節約",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "作業中のタブ・再生中メディア・固定タブを保護しつつ、標準APIでChromeのRAMを確実に解放するMV3タブ休止ツール。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Güvenilir Sekme Uyutucu",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Aktif işleri, medyayı veya sabitlenmiş sekmeleri bozmadan yerel sekme bekletmeyle Chrome RAM'ini boşaltan güvenilir MV3 aracı.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

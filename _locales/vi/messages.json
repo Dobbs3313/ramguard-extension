@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Tạm Ngưng Tab Đáng Tin Cậy",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Công cụ MV3 giải phóng RAM Chrome bằng API gốc mà không ngắt công việc đang làm, âm thanh hay tab đã ghim.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — വിശ്വസനീയ ടാബ് സസ്പെൻഡർ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "സജീവ ജോലികളോ മീഡിയയോ പിൻ ചെയ്ത ടാബുകളോ തടസ്സപ്പെടുത്താതെ Chrome RAM സ്വതന്ത്രമാക്കുന്ന MV3 ടാബ് സസ്പെൻഡർ.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

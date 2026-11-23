@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Niezawodne Usypianie Kart",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Niezawodny usypiacz kart MV3 zwalniający RAM w Chrome bez przerywania aktywnej pracy, mediów oraz przypiętych kart.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

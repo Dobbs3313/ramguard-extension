@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Megbízható Lapfelfüggesztő",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Megbízható MV3 lapfelfüggesztő, amely aktív munka, média és rögzített lapok megzavarása nélkül szabadít fel Chrome RAM-ot.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — አስተማማኝ የትር ማቆሚያ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ንቁ ስራ፣ ሚዲያ ወይም የተሰኩ ትሮችን ሳያቋርጥ Chrome RAM የሚያስለቅቅ አስተማማኝ MV3 የትር ማቆሚያ።",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "RamGuard — Reliable Tab Suspender",
-  "short_name": "RamGuard",
-  "description": "Reliable MV3 tab suspender that frees Chrome RAM using native tab discarding without killing active work, media, or pinned tabs.",
+  "name": "__MSG_appName__",
+  "short_name": "__MSG_appShortName__",
+  "description": "__MSG_appDescription__",
   "version": "1.0.0",
   "icons": {
     "16": "icons/icon16.png",
@@ -11,7 +11,7 @@
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_title": "RamGuard",
+    "default_title": "__MSG_appShortName__",
     "default_popup": "popup.html"
   },
   "background": {
@@ -22,5 +22,6 @@
     "tabs",
     "alarms",
     "storage"
-  ]
+  ],
+  "default_locale": "en"
 }

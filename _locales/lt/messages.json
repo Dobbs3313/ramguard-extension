@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Patikimas Kortelių Pristabdymas",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Patikimas MV3 kortelių pristabdymas, atlaisvinantis Chrome RAM neišjungiant aktyvaus darbo, medijos ar prisegtų kortelių.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

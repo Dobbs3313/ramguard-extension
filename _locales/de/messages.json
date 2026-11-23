@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Zuverlässiger Tab-Suspender",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Zuverlässiger MV3-Tab-Suspender: gibt Chrome-RAM nativ frei, ohne aktive Arbeit, Medien oder angeheftete Tabs zu schließen.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -3,8 +3,11 @@
 - **Title:** RamGuard — Reliable MV3 Tab Suspender that Fr
 - **Category:** Make Chrome Yours -> Functionality & UI
 - **Version:** 1.0.0
+- **Locales:** 56 Chrome Web Store languages (`_locales/`)
 - **Pricing:** Free with optional Stripe Pro upgrade ($2.99/mo · $19.99/yr · $29.99 Lifetime)
-- **Privacy Policy URL:** `https://github.com/Dobbs3313/ramguard-extension/blob/main/store-assets/PRIVACY_POLICY.md`
+- **Homepage URL:** `https://arisparty.org/extensions/ramguard`
+- **Support URL:** `https://arisparty.org/extensions/ramguard/support`
+- **Privacy Policy URL:** `https://arisparty.org/extensions/ramguard/privacy`
 
 ## Short Description (<= 132 chars)
 Reliable MV3 Tab Suspender that Frees RAM Without Breaking Work. Fast, privacy-first Manifest V3 utility with zero ads or telemetry.
@@ -24,6 +27,11 @@ Reliable MV3 Tab Suspender that Frees RAM Without Breaking Work. Fast, privacy-f
 - Per-domain custom idle timeout overrides
 - Automatic tab-count threshold suspension & memory savings history
 - JSON rules export/import
+
+### Privacy & Support
+- Product & docs: https://arisparty.org/extensions/ramguard
+- Privacy policy: https://arisparty.org/extensions/ramguard/privacy
+- Support & setup: https://arisparty.org/extensions/ramguard/support (support@arisparty.org)
 
 ### Stripe Live Checkout Links
 - Monthly ($2.99/mo): https://buy.stripe.com/14A8wPejR09r8ebauSg3608

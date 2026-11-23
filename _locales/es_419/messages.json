@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Suspensor Confiable de Pestañas",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Suspensor confiable MV3 que libera memoria RAM en Chrome usando descarte nativo sin interrumpir trabajo, audio ni pestañas fijadas.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

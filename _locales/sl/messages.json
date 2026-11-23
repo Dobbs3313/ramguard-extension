@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Zanesljiv Uspavalnik Zavihkov",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Zanesljivi MV3 uspavalnik zavihkov, ki sprosti Chrome RAM brez prekinjanja aktivnega dela, medijev ali pripetih zavihkov.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

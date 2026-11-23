@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — நம்பகமான தாவல் இடைநிறுத்தி",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "செயலில் உள்ள பணி, ஊடகம் அல்லது பின் செய்த தாவல்களை நிறுத்தாமல் Chrome RAM ஐ விடுவிக்கும் நம்பகமான MV3 கருவி.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

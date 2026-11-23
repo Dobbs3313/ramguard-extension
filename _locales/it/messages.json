@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Sospendi Schede Affidabile",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Sospende le schede MV3 liberando RAM in Chrome in modo nativo senza interrompere lavori attivi, audio o schede bloccate.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

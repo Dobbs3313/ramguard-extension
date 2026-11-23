@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — تعليق علامات التبويب الموثوق",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "أداة MV3 موثوقة لتحرير ذاكرة RAM في Chrome دون إيقاف العمل النشط أو الوسائط أو علامات التبويب المثبتة.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

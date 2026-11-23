@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Penunda Tab Andal",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Penunda tab MV3 andal yang membebaskan RAM Chrome tanpa mematikan pekerjaan aktif, media, atau tab yang disematkan.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

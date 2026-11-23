@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Penangguh Tab Boleh Dipercayai",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Penangguh tab MV3 yang membebaskan RAM Chrome tanpa mematikan kerja aktif, media atau tab berpin.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

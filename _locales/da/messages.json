@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Pålidelig Fane-Dvale",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pålidelig MV3-fanedvale, der frigør Chrome RAM uden at afbryde aktivt arbejde, medier eller fastgjorte faner.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Suspendare Sigură a Filelor",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Suspendare fiabilă MV3 care eliberează memoria RAM din Chrome fără a întrerupe munca activă, sunetul sau filele fixate.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

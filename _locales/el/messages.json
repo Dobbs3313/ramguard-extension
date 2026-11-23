@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Αξιόπιστη Αναστολή Καρτελών",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Αξιόπιστη αναστολή καρτελών MV3 που ελευθερώνει μνήμη RAM στο Chrome χωρίς να διακόπτει ενεργή εργασία ή καρφιτσωμένες καρτέλες.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

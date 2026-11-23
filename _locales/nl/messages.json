@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Betrouwbare Tab-Pauzeerder",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Betrouwbare MV3 tabblad-suspender die Chrome-RAM vrijmaakt via native tab-discarding zonder actief werk of audio te stoppen.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

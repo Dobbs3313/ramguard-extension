@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — معلق‌کننده مطمئن زبانه‌ها",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "معلق‌کننده مطمئن MV3 برای آزادسازی رم کروم بدون بستن کارهای فعال، رسانه یا زبانه‌های سنجاق‌شده.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

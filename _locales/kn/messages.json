@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — ವಿಶ್ವಾಸಾರ್ಹ ಟ್ಯಾಬ್ ಸಸ್ಪೆಂಡರ್",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ಸಕ್ರಿಯ ಕೆಲಸ, ಮಾಧ್ಯಮ ಅಥವಾ ಪಿನ್ ಮಾಡಿದ ಟ್ಯಾಬ್ ನಿಲ್ಲಿಸದೆ Chrome RAM ಮುಕ್ತಗೊಳಿಸುವ ವಿಶ್ವಾಸಾರ್ಹ MV3 ಟ್ಯಾಬ್ ಸಸ್ಪೆಂಡರ್.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

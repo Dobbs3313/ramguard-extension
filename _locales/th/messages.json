@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — พักแท็บอัตโนมัติประหยัด RAM",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ตัวพักแท็บ MV3 ที่เชื่อถือได้ คืนหน่วยความจำ Chrome โดยไม่รบกวนงานที่เปิดอยู่ เสียง หรือแท็บที่ปักหมุด",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

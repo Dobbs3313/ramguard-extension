@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — विश्वसनीय टैब सस्पेंडर",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "सक्रिय कार्य, मीडिया या पिन किए गए टैब को बंद किए बिना Chrome RAM मुक्त करने वाला भरोसेमंद MV3 टैब सस्पेंडर।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

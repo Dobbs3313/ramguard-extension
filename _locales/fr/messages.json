@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Mise en Veille Fiable d’Onglets",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Suspendeur d’onglets MV3 fiable libérant la RAM Chrome sans interrompre travail actif, médias ou onglets épinglés.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

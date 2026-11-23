@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Maaasahang Tab Suspender",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Maaasahang MV3 tab suspender na nagpapalaya ng Chrome RAM nang hindi sinisira ang aktibong gawain, media, o pinned tabs.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

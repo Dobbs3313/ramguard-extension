@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Pålitlig Flikviloläge",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pålitlig MV3-flikpausare som frigör Chrome RAM utan att döda aktivt arbete, uppspelning eller fästa flikar.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

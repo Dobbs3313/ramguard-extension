@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Uzticama Ciļņu Apturēšana",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Uzticams MV3 ciļņu iemidzinātājs, kas atbrīvo Chrome RAM, nepārtraucot aktīvu darbu, medijus vai piespraustās cilnes.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Suspensor Confiável de Abas",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Suspensor MV3 confiável que libera RAM no Chrome via descarte nativo sem encerrar trabalho ativo, mídia ou abas fixadas.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — 안정적인 탭 일시 중지",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "작업 중인 탭, 미디어, 고정 탭은 보호하면서 Chrome 네이티브 폐기로 메모리를 확보하는 안정적인 MV3 탭 일시 중지 확장.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

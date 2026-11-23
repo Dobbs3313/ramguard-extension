@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Надеждно приспиване на раздели",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Надеждно MV3 приспиване на раздели, освобождаващо Chrome RAM без спиране на активна работа, медия или закачени раздели.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

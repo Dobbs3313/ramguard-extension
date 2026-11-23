@@ -4,6 +4,10 @@
 
 A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** to outperform **Auto Tab Discard** (`jhnleheckmknfcgijgkadoemagpecfol`, 100K+ users, 4.1★).
 
+- **Product Page:** https://arisparty.org/extensions/ramguard
+- **Privacy Policy:** https://arisparty.org/extensions/ramguard/privacy
+- **Support & Setup:** https://arisparty.org/extensions/ramguard/support (`support@arisparty.org`)
+
 ## Competitive Advantages
 - Replaces Auto Tab Discard (100K users, 4.1★, Oct 2026 breakage & post-update promo ad tabs)
 - Built cleanly on MV3 chrome.alarms so idle discarding fires reliably after service-worker sleep
@@ -41,4 +45,4 @@ A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** t
 ```bash
 node tests/verify.mjs .
 ```
-Outputs a store-ready archive at `dist/ramguard-extension-v1.0.0.zip`.
+Outputs a store-ready archive with 56 `_locales` at `dist/ramguard-extension-v1.0.0.zip`.

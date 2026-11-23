@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Pålitelig Fane-Hvilemodus",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pålitelig MV3-fanepause som frigjør Chrome RAM uten å stoppe aktivt arbeid, medier eller festede faner.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

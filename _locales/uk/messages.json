@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Надійне присипляння вкладок",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Надійне присипляння вкладок MV3 для звільнення оперативної пам’яті Chrome без зупинки активної роботи, медіа й закріплених вкладок.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

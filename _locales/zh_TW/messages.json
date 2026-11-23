@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — 可靠的分頁休眠省記憶體",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "基於原生機制的安全 MV3 分頁休眠工具，釋放 Chrome 記憶體且絕不中斷編輯中、播放中或已釘選的分頁。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

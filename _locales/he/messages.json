@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — משהה לשוניות אמין",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "משהה לשוניות MV3 אמין המשחרר זיכרון Chrome באופן טבעי מבלי לפגוע בעבודה פעילה, מדיה או לשוניות נעוצות.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Usaldusväärne Vahekaardi Peataja",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Usaldusväärne MV3 vahekaartide uinutaja, mis vabastab Chrome'i mälu aktiivset tööd, meediat ega kinnitatud kaarte segamata.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

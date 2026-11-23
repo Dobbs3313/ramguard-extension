@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — 可靠的标签页休眠省内存",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "基于原生丢弃机制的可靠 MV3 标签页休眠工具，安全释放 Chrome 内存，绝不误杀正在编辑、播放或已固定的标签页。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

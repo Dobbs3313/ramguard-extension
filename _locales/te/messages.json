@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — నమ్మకమైన ట్యాబ్ సస్పెండర్",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "యాక్టివ్ పని, మీడియా లేదా పిన్ చేసిన ట్యాబ్‌లను ఆపకుండా Chrome RAM ని ఖాళీ చేసే నమ్మకమైన MV3 ట్యాబ్ సస్పెండర్.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

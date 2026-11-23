@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "RamGuard — Pouzdan Uspavljivač Kartica",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "RamGuard",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pouzdan MV3 alat koji oslobađa Chrome RAM bez prekidanja aktivnog rada, medija ili prikvačenih kartica.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}
